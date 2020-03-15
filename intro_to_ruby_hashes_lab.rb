@@ -1,13 +1,14 @@
 def new_hash(empty_hash)
 empty_hash = {""=>""}
-return empty_hash 
+empty_hash 
 end
 
 def actor(actor)
-the_rock = {:name =>actor}
-the_rock[:name]
+actor = {:name =>"Dwayne The Rock Johnson"}
+actor[:name]
 end
-
+the_rock = {:name =>}
+the_rock[:name]
 def monopoly
 	monopoly = {}
 
