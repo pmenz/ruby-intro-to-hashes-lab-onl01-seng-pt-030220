@@ -1,10 +1,10 @@
 def new_hash(empty_hash)
 empty_hash = {""=>""}
-empty_hash 
+empty_hash [""]
 end
 
 def actor(actor)
-actor = {:name =>"Dwayne The Rock Johnson"}
+actor = {:name => "Dwayne The Rock Johnson"}
 actor[:name]
 end
 
