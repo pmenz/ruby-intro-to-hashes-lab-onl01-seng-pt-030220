@@ -3,8 +3,8 @@ empty_hash = {""=>""}
 return empty_hash 
 end
 
-def actor(name)
-the_rock = {:name =>"Dwayne The Rock Johnson"}
+def actor(actor)
+the_rock = {:name =>actor}
 the_rock[:name]
 end
 
