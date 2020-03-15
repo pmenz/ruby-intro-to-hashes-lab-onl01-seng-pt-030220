@@ -1,9 +1,9 @@
-def new_hash(empty_hash)
+def new_hash
 empty_hash = {""=>""}
 empty_hash [""]
 end
 
-def actor(actor)
+def actor
 actor = {:name => "Dwayne The Rock Johnson"}
 actor[:name]
 end
@@ -17,7 +17,7 @@ end
 
 def monopoly_with_second_tier
 	monopoly = {
-	            :railroads => { pieces: 4 }
+	            :railroads => { :pieces => 4 ,:names{} }
 	}
 end
 
