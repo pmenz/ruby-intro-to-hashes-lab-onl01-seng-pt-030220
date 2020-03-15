@@ -3,7 +3,7 @@ hash = {}
 hash
 end
 
-def actor
+def actor(name)
 
 end
 
