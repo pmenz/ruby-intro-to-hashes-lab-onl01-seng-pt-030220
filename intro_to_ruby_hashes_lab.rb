@@ -5,7 +5,7 @@ end
 
 def actor(name)
 the_rock = {:name =>"Dwayne The Rock Johnson"}
-return the_rock[:name]
+the_rock[:name]
 end
 
 def monopoly
