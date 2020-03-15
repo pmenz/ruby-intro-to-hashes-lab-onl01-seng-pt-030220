@@ -7,8 +7,7 @@ def actor(actor)
 actor = {:name =>"Dwayne The Rock Johnson"}
 actor[:name]
 end
-the_rock = {:name =>}
-the_rock[:name]
+
 def monopoly
 	monopoly = {}
 
