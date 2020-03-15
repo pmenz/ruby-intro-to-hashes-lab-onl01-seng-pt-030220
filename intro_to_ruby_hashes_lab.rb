@@ -3,10 +3,9 @@ hash = {}
 hash
 end
 
-def actor(hactor)
-hactor="Dwayne The Rock Johnson"
-the_rock = {name:hactor}
-name[hactor]
+def actor(name)
+the_rock = {:name =>"Dwayne The Rock Johnson"}
+
 end
 
 def monopoly
